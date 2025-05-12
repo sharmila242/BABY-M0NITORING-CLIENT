@@ -18,7 +18,7 @@ The frontend is a React/Vite application that displays sensor data in real-time 
   - Notification system (app, browser, email, SMS)
   - User authentication
   - Threshold configuration
-
+### DONE
 ### Backend
 
 The backend is a Node.js/Express server that handles IoT data and provides API endpoints for the frontend.
